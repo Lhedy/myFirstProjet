@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 my third file 
 ma dernière modification
+=======
+my third file
+
+
+j'ai modifié dans la branche dev 
+>>>>>>> dev
